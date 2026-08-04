@@ -45,7 +45,7 @@ Follow these steps to set up and run the project in your local environment:
 ## 1. Clone the Repository
 First, clone the repository to your local machine:
     ```bash
-    git clone https://github.com/sangeetanandanvishal04/AI-medical-assistant.git
+    git clone https://github.com/poonampoonia01/AI-medical-assistant.git
 
 ### 2. Create and Activate a Virtual Environment
 Open Command prompt inside your VS Code editor:
